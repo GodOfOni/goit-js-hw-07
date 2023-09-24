@@ -1,1 +1,1 @@
-https://github.com/GodOfOni/goit-js-hw-07
+https://godofoni.github.io/goit-js-hw-07/index.html
